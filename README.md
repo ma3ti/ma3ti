@@ -9,7 +9,7 @@ I'm a passionate Master's student in Computer Science, with a deep curiosity for
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **[insert project or research topic]**.
+- 🔭 I’m currently working on **Microservices, YOLO object detection and Computed Tomography**.
 - 🌱 I’m learning more about **AI, Cybersecurity, Microservices, and System Design**.
 - 👯 I’m open to collaboration on **open-source tools, security research, and educational content**.
 - 💬 Ask me about **AI safety, LLM vulnerabilities, Android development, and backend microservices**.
