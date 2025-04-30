@@ -50,4 +50,4 @@ I'm a passionate Master's student in Computer Science, with a deep curiosity for
 [![Twitter]([https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white](https://x.com/matteo99869825))]
 
 
-Thanks for visiting!
+Thanks for stopping by — feel free to explore my repos and reach out if you'd like to collaborate or just chat tech!
