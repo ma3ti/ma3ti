@@ -13,7 +13,7 @@ I'm a passionate Master's student in Computer Science, with a deep curiosity for
 - 🌱 I’m learning more about **AI, Cybersecurity, Microservices, and System Design**.
 - 👯 I’m open to collaboration on **open-source tools, security research, and educational content**.
 - 💬 Ask me about **AI safety, LLM vulnerabilities, Android development, and backend microservices**.
-- 📫 Reach me at: **matteo.fontana9@libero.it** or connect on [LinkedIn](([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/matteo-fontana-9943a0194/))
+- 📫 Reach me at: **matteo.fontana9@libero.it** or connect on [![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/matteo-fontana-9943a0194/))]
 
 ---
 
